@@ -1,0 +1,15 @@
+.nav {
+  border: 7px solid hsl(64, 100%, 50%);
+  display: flex;
+}
+h1{
+text-decoration: underline;
+    color:rgb(0, 34, 255)
+}
+h3{
+    color:green
+}
+img {
+  border: 10px solid green; /* Width, style, and color */
+  border-radius: 10px; /* Optional: for rounded corners */
+}
